@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/7f585b1b-813a-4788-b8e1-e14ee35cfc44/resourceGroups/CWL-TESTSITE/providers/Microsoft.Web/sites/CWL-TEST-WEB"
+}
